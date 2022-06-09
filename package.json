@@ -1,5 +1,5 @@
 {
-  "name": "templewallet-eslint-plugin",
+  "name": "eslint-plugin-templewallet",
   "version": "0.0.4",
   "description": "General-purpose ESLint rules for TempleWallet frontend team",
   "main": "lib/index.js",
